@@ -1,0 +1,9 @@
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+  position: relative;
+  padding: 0;
+  margin: 0;
+  z-index: 1;
+}
